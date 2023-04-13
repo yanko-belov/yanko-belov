@@ -25,9 +25,7 @@
 <h3 align="center">Frontend Libraries:</h3>
 <p align="center">
 <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>
-
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-
 </p>
 
 <h3 align="center">CSS Frameworks, Libraries and Tools:</h3>
