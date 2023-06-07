@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Yanko</h1>
 <h3>Passionate frontend/fullstack developer</h3>
 
-<p>📫 Contact me at belov.yanko@gmail.com</h3>
+<p>📫 Contact me at <a href="mailto:belov.yanko@gmail.com">belov.yanko@gmail.com</a></h3>
 
 <h3>Connect with me:</h3>
 <p>
