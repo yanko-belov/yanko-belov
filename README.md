@@ -6,6 +6,8 @@ In a previous role, I led a team of talented developers in a fast-paced startup 
 
 I leverage my expertise in `JavaScript`, `TypeScript`, `Vue.js`, `Nuxt`, `React`, `Next.js`, `Node.js`, `PHP`, `Laravel`, and `Agile Development` to create innovative and efficient applications that meet business needs and exceed expectations. **I am passionate about digital innovation, technical excellence**, and fostering team collaboration, and **I continuously strive to expand my skills and knowledge.**
 
+Additionally, I am the author of 📖 [JavaScript Masterclass: A Comprehensive Guide to Mastering Modern Programming](https://a.co/d/856OZL0) — a book designed to help developers enhance their `JavaScript` skills and tackle complex programming challenges with confidence.
+
 For more information about my professional background and projects, please visit my [LinkedIn profile](https://www.linkedin.com/in/yanko-belov/).
 
 ## 📧 Contact me
