@@ -10,7 +10,7 @@ For more information about my professional background and projects, please visit
 
 ## 📧 Contact me
 
-- 📫 **Contact me:** belov.yanko@gmail.com
+- 📫 **Contact me:** belov.yanko+gh@gmail.com
 - 🌐 **LinkedIn:** [Yanko Belov](https://www.linkedin.com/in/yanko-belov/)
 
 ## 🛠️ Technologies & Tools
